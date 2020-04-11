@@ -2365,7 +2365,7 @@ html {
 
 body {
   background-color: #fff;
-  color: #202020;
+  color: #202020; 
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.125rem;
   line-height: 1.5;
@@ -2470,7 +2470,7 @@ samp {
 }
 
 code {
-  color: #d05;
+  color: rgb(255, 255, 255);
   font-size: 75%;
   padding: .2rem .4rem;
   background-color: #fafafa;

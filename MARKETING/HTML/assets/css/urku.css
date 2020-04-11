@@ -53,7 +53,9 @@ body {
 }
 
 .rk-header {
-  background-color: rgb(159, 80, 184);
+  /*BARRA MENU */
+  background-color: rgb(0, 0, 0);
+  color: #fff;
   position: relative;
   z-index: 5;
 }
@@ -480,8 +482,8 @@ body {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  border-color: rgb(0, 0, 0);
-  border-width: 3.5px;
+  border-color: rgb(255, 255, 255);
+  border-width: 0.5px;
   border-style: solid;
   -webkit-box-flex: 1;
   -webkit-flex: 1;
@@ -1967,7 +1969,7 @@ body {
   padding-top: .16rem;
 }
 .rk-menu__item {
-  color: #202020;
+  color: #36127a;
   display: inherit;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
