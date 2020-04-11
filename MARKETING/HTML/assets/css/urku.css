@@ -2071,7 +2071,7 @@ body {
     -webkit-align-items: center;
     -ms-flex-align: center;
             align-items: center;
-    width: 85%;
+    width: 95%;
   }
   #mobile-menu:checked ~ .rk-topbar .rk-menu__item {
     padding-left: 0;
