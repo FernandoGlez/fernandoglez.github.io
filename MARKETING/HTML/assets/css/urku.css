@@ -166,7 +166,7 @@ body {
   width: 100px;
 }
 .rk-search input:focus + label {
-  color: #a0a0a0;
+  color: #ffffff;
 }
 
 .rk-navmobile {
@@ -350,7 +350,7 @@ body {
 }
 .layout-ctrl-input:checked + .rk-layout-ctrl-cont label {
   display: none;
-  color: #a0a0a0;
+  color: #ffffff;
 }
 @media (min-width: 64em) {
   .layout-ctrl-input:checked + .rk-layout-ctrl-cont label {
@@ -1970,7 +1970,7 @@ body {
   padding-top: .16rem;
 }
 .rk-menu__item {
-  color: rgba(221, 111, 111, 0.671);
+  color: rgba(255, 255, 255, 0.671);
 
   display: inherit;
   padding-left: 1.5rem;
@@ -1983,7 +1983,7 @@ body {
   padding-right: 0;
 }
 .rk-menu__item.active {
-  color: #a0a0a0;
+  color: #ffffff;
 }
 .rk-menu__link {
   padding-bottom: 4.2rem;
