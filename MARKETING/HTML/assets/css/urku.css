@@ -1970,7 +1970,7 @@ body {
   padding-top: .16rem;
 }
 .rk-menu__item {
-  color: rgba(255, 255, 255, 0.671);
+  color: rgba(0, 0, 0, 0.671);
 
   display: inherit;
   padding-left: 1.5rem;
@@ -1983,7 +1983,7 @@ body {
   padding-right: 0;
 }
 .rk-menu__item.active {
-  color: #ffffff;
+  color: #000000;
 }
 .rk-menu__link {
   padding-bottom: 4.2rem;
