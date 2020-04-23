@@ -27,7 +27,7 @@ body {
 header {
     width: 100%;
     height: 50px;
-    background: #fffdf0;
+    background: #000;
     color: #ffdf0;
     
     position: fixed;
@@ -41,7 +41,6 @@ header {
     margin: auto;
 }
 
-/*encabezado menu */
 h1 {
     float: left;
 }
